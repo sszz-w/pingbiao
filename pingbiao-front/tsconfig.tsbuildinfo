@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/chatbubble.tsx","./src/components/chatpanel.tsx","./src/components/configmodal.tsx","./src/components/errortoast.tsx","./src/components/sidebar.tsx","./src/components/uploadpanel.tsx","./src/hooks/uselocalstorage.ts","./src/hooks/usewebsocket.ts","./vite-env.d.ts"],"version":"5.9.3"}

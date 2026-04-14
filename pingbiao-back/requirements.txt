@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+openai
+jieba
+paddleocr
+paddlepaddle
+Pillow
+
+rapidocr-onnxruntime
